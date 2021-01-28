@@ -1,0 +1,43 @@
+h3{
+  color:#11999E;
+}
+body{
+  background-color: white;
+  text-align: center;
+}
+
+.intro{
+  background-color: #E4F9F5;
+  line-height: 2em;
+
+}
+.bottom-cloud{
+  position: absolute;
+}
+
+.top-cloud{
+  position: relative;
+  left: 200px;
+  top: 10px;
+}
+.intro-msg{
+font-family: sans-serif;
+color: #66BFBF;
+font-size: 50px;
+}
+.about{
+  font-weight: normal;
+  font-family: 'Indie Flower', cursive;
+  color: #66BFBF;
+  font-size: 30px;
+}
+.bottom-container{
+  background-color: #d9ecf2;
+}
+.footer-link{
+  color:#11999E;
+  padding: 10px;
+}
+a{
+  text-decoration: none;
+}

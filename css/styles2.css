@@ -1,0 +1,86 @@
+#about{
+
+}
+
+.abtimg{
+  align-items: center;
+  text-align: center;
+  padding-top: 29px;
+  margin-bottom: 29px;
+}
+.abttext{
+  align-items: center;
+  background-color: #bedcfa;
+  line-height: 2.7;
+  padding: 40px;
+  padding-top: 20px;
+  text-align: center;
+  /* margin-bottom: 25px; */
+
+}
+body{
+  background-color: #005291;
+  background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
+}
+.cta-images{
+  margin: 20px;
+  height: 70px;
+}
+.coll{
+  align-items: center;
+  text-align: center;
+  height: 270px;
+}
+.colltext{
+  padding-top: 50px;
+
+}
+#comp{
+  border-radius: 70%;
+  height: 150px;
+}
+.contact{
+  align-items: center;
+  text-align: center;
+  margin-top: 44px;
+}
+#footer{
+  align-items: center;
+  text-align: center;
+}
+.header{
+  margin-top: 65px;
+}
+#joys{
+  border-radius: 70%;
+  height: 150px;
+}
+#nature{
+  border-radius: 10%;
+  height: 150px;
+}
+.nav-img{
+  height: 42px;
+  width: 42px;
+  margin-left: 34px;
+}
+.navbar-toggler{
+  margin-right: 15px;
+}
+.nav-link{
+  margin-left: 34px;
+  font-size: 1.1rem;
+}
+#profim{
+  border-radius: 50%;
+  height: 300px;
+  margin: 14px;
+  margin-top: 7px;
+  position: relative;
+}
+#quiz{
+  height: 150px;
+}
+#title{
+  background-color: #b088f9;
+}
