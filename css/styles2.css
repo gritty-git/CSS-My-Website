@@ -22,6 +22,19 @@ body{
   background-color: #005291;
   background-image: url("https://www.transparenttextures.com/patterns/diagmonds-light.png");
 }
+
+.card{
+  margin: 20px;
+  text-align: center;
+  max-width: 290px;
+  
+}
+
+.cards{
+  text-align: center;
+  align-items: center;
+}
+
 .cta-images{
   margin: 20px;
   height: 70px;
